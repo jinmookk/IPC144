@@ -1,11 +1,11 @@
 # IPC-Workshops
-## 1. Getting Started
-## 2. Computations
-## 3. Logic
-## 4. Arrays
-## 5. Structures
-## 6. Functions
-## 7. Functions with Pointers
-## 8. Functions, Arrays and Structs
-## 9. Files
-## 10. Strings
+1. Getting Started
+2. Computations
+3. Logic
+4. Arrays
+5. Structures
+6. Functions
+7. Functions with Pointers
+8. Functions, Arrays and Structs
+9. Files
+10. Strings
